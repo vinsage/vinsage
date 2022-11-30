@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vinsage
+- 👀 I'm trying to add a few coding skills to my resume to make it seem sophisticated, but I'm a lazy and uninspired programmer.
+- 🌱 I’m currently learning python
+- 💞️In order to avoid impostor syndrome among my coding pals, I'm hoping to cooperate on any project that can boost my confidence a bit.
+- 📫 reach me at karuneshdubey78@gmail.com
